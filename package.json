@@ -1,0 +1,23 @@
+{
+  "name": "monument-testsuite",
+  "version": "1.0.0",
+  "description": "Here are the steps to run this cypress test suite:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssathyanarayana2024/monument-testsuite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssathyanarayana2024/monument-testsuite/issues"
+  },
+  "homepage": "https://github.com/ssathyanarayana2024/monument-testsuite#readme",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
